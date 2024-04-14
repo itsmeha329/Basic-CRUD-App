@@ -5,7 +5,7 @@
 const array = [
 	{
 		id: "1",
-		Name: "Shivansh",
+		Name: "Jyotipriyo",
 		Age: "23",
 	},
 	{
