@@ -14,7 +14,7 @@ import Home from "./components/Home";
 function App() {
 	return (
 		<div className="App">
-			<h1 className="geeks">Basic CRUD App </h1>
+			<h1 className="geeks">CRUD Application for XYZ Company</h1>
 			<h3>CRUD App</h3>
 			<Router>
 				<Routes>
